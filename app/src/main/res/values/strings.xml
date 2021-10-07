@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChangeSizeText</string>
+    <string name="edMessageHint">Introduce un mensage</string>
+    <string name="btSend">Mostrar</string>
+    <string name="skSizeMax">100.0</string>
+</resources>
